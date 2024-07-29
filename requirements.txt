@@ -1,0 +1,7 @@
+dspy
+pypdf
+dspy-ai[faiss-cpu]
+langchain_community
+sentence_transformers
+langchain-text-splitters
+streamlit
